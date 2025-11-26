@@ -1,5 +1,5 @@
-const int Pin_IN1 = 9 ;
-const int Pin_IN2 = 10 ;
+const int Pin_IN1 = 6 ;
+const int Pin_IN2 = 7 ;
 
 
 const int Pin_Channel_A = 2;
